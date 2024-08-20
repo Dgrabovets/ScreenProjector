@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|c:\\users\\grdan\\desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\twoscreensonecup\\twoscreensonecup\\playersprocentseditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|solutionrelative:twoscreensonecup\\playersprocentseditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\twoscreensonecup\\playersprocentseditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|solutionrelative:twoscreensonecup\\playersprocentseditorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|c:\\users\\grdan\\desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\twoscreensonecup\\twoscreensonecup\\wideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|solutionrelative:twoscreensonecup\\wideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|c:\\users\\grdan\\desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\twoscreensonecup\\twoscreensonecup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|solutionrelative:twoscreensonecup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\twoscreensonecup\\wideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F48E78A-1AE6-4275-84A5-2CAC58F2532C}|TwoScreensOneCup\\TwoScreensOneCup.csproj|solutionrelative:twoscreensonecup\\wideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WideForm.cs",
+              "DocumentMoniker": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\WideForm.cs",
+              "RelativeDocumentMoniker": "TwoScreensOneCup\\WideForm.cs",
+              "ToolTip": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\WideForm.cs",
+              "RelativeToolTip": "TwoScreensOneCup\\WideForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:38:38.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayersProcentsEditorForm.cs",
+              "DocumentMoniker": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\PlayersProcentsEditorForm.cs",
+              "RelativeDocumentMoniker": "TwoScreensOneCup\\PlayersProcentsEditorForm.cs",
+              "ToolTip": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\PlayersProcentsEditorForm.cs",
+              "RelativeToolTip": "TwoScreensOneCup\\PlayersProcentsEditorForm.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAqwMYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:15:31.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\Program.cs",
+              "RelativeDocumentMoniker": "TwoScreensOneCup\\Program.cs",
+              "ToolTip": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\Program.cs",
+              "RelativeToolTip": "TwoScreensOneCup\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:28:17.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayersProcentsEditorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\PlayersProcentsEditorForm.cs",
+              "RelativeDocumentMoniker": "TwoScreensOneCup\\PlayersProcentsEditorForm.cs",
+              "ToolTip": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\PlayersProcentsEditorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "TwoScreensOneCup\\PlayersProcentsEditorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:08:53.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WideForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\WideForm.cs",
+              "RelativeDocumentMoniker": "TwoScreensOneCup\\WideForm.cs",
+              "ToolTip": "C:\\Users\\grdan\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430\\TwoScreensOneCup\\TwoScreensOneCup\\WideForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "TwoScreensOneCup\\WideForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:38:33.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
